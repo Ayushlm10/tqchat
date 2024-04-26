@@ -1,3 +1,8 @@
+This is a simple chat app for me to learn about websockets and realtime communication. It can do the basic simple things you would expect from a chat app.
+Join a room , talk to other users in real time.
+
+Will probaby do cool things in the near future based on what I learnt in this project(Most probably in go).
+
 - When you first login
 
 ![image](https://github.com/Ayushlm10/tqchat/assets/51413362/412e5f4d-2da1-442c-8910-024eefb48379)
